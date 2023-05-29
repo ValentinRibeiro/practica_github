@@ -1,2 +1,2 @@
 # practica_github
-zamtty bell 0.5
+zamtty bell 0.9
